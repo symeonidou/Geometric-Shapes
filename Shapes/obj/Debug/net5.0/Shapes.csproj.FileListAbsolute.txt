@@ -1,0 +1,12 @@
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\Shapes.deps.json
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\Shapes.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\ref\Shapes.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\Shapes.pdb
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfo.cs
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ref\Shapes.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\Shapes.pdb

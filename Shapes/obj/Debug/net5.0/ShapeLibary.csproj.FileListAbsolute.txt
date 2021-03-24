@@ -1,0 +1,12 @@
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\ShapeLibary.deps.json
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\ShapeLibary.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\ref\ShapeLibary.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\bin\Debug\net5.0\ShapeLibary.pdb
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.AssemblyInfoInputs.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.AssemblyInfo.cs
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ref\ShapeLibary.dll
+C:\Users\Emma\Desktop\Lab2ShapesApp\Shapes\obj\Debug\net5.0\ShapeLibary.pdb
